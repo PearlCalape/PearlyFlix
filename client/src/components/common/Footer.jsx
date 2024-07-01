@@ -45,7 +45,7 @@ const Footer = () => {
             color: "gray",
           }}
         >
-          &copy; 2022 BertFlix Developed by{" "}
+          &copy; 2022 PearlyFlix Developed by{" "}
           <a
             style={{
               textDecoration: "none",
